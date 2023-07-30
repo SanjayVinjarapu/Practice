@@ -1,0 +1,14 @@
+a:hover{
+    color:rgb(95, 189, 220)!important;
+}
+p{
+    color: white;
+}
+button .search{
+    color:white!important;
+    border-color: white!important;
+    
+}
+button:hover{
+    background-color: rgb(95, 189, 220)!important;
+}
